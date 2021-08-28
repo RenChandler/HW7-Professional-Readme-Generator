@@ -1,9 +1,9 @@
-# Psychohistory
+# Foundation
 
   ![Github license](https://img.shields.io/badge/license-MIT-red.svg) 
 
   ## Description
-  # An attempt to describe the patterns of history through mathematics and behavorial science
+  # An attempt to use the field of Psychohistory, which involves the use of mathematics, human behavior, and statistics to determine future events, to chart a course for the Galactic Empire for the next 1000 years, provided no unexpected events occur.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,9 +14,9 @@
   * [Questions](#questions)
   
   ### Installation
-  The Foundation 
+  Create two foundations on opposite ends of the Galaxy to rebuild civilization after its collapse
   ### Usage
-  Ensure the Galactic Empire doesn't collapse in a thousand years
+  Use the Prime Radiant to store the equations that determine future events and use that to guide where policies would go.
 
   ## License 
     This App uses the MIT license
@@ -24,7 +24,7 @@
   ### Contribution
   undefined
   ### Tests
-  Watch history play out.
+  Observe the stability of the Galactic Empire
   ### Questions
   RenChandler
   rnchandramouli42@gmail.com
