@@ -1,9 +1,9 @@
-# Foundation
+# The Anti-Life Equation
 
   ![Github license](https://img.shields.io/badge/license-MIT-red.svg) 
 
   ## Description
-  # An attempt to use the field of Psychohistory, which involves the use of mathematics, human behavior, and statistics to determine future events, to chart a course for the Galactic Empire for the next 1000 years, provided no unexpected events occur.
+  # A somewhat ill-defined, but quantifiable process and set of elements that can be used to control all sentient life in the universe.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,9 +14,9 @@
   * [Questions](#questions)
   
   ### Installation
-  Create two foundations on opposite ends of the Galaxy to rebuild civilization after its collapse
+  Find humans with the necessary elements to extract their knowledge. Alternatively, travel to the native anti-matter dimension or use a massive galactic computer
   ### Usage
-  Use the Prime Radiant to store the equations that determine future events and use that to guide where policies would go.
+  To take control of sentient life and possibly restructure the universe
 
   ## License 
     This App uses the MIT license
@@ -24,7 +24,7 @@
   ### Contribution
   undefined
   ### Tests
-  Observe the stability of the Galactic Empire
+  Make sure you have absolute control
   ### Questions
   RenChandler
   rnchandramouli42@gmail.com
